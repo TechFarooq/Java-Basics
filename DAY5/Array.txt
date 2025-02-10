@@ -1,0 +1,6 @@
+Array is the collection of similar data type..Array can be accesed by indexes
+Index always start from 0
+Array is the object.
+You can able to create arrays in two ways
+int a[]={1,2,3,4,5}; //1st way
+
